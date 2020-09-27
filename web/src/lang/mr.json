@@ -1,0 +1,423 @@
+{
+  "BeginPresentation": {
+    "classroom_pin": "क्लासरूम पिन",
+    "download_failed": "डाउनलोड अयशस्वी",
+    "downloaded_by": "द्वारा डाउनलोड केलेले",
+    "failed": "अयशस्वी",
+    "presentation_created_by": "प्रेझेंटेशन तयार केले",
+    "start_presentation": "सादरीकरण प्रारंभ करा",
+    "students_connected": "विद्यार्थी कनेक्ट",
+    "downloaded": "डाउनलोड केले",
+    "out_of": "बाहेर",
+    "slides": "स्लाइड्स",
+    "students": "विद्यार्थीच्या",
+    "description": "वर्णन"
+  },
+  "ClassSummary": {
+    "0_correct_answers": "{0} बरोबर उत्तर",
+    "0_questions": "{0} प्रश्न",
+    "0_total_students": "{0} एकूण विद्यार्थी",
+    "class_performance_is_0": "वर्ग कामगिरी {0} आहे",
+    "class_summary": "वर्ग सारांश",
+    "conducted_by": "आयोजित",
+    "correct_answer": "बरोबर उत्तर",
+    "correct_answers": "योग्य उत्तरे",
+    "on_0_in_1_for_2_mins": "{2} साठी {1} मध्ये {0} वर",
+    "question": "प्रश्न",
+    "questions": "प्रश्न",
+    "started_at": "पासून सुरू झाले",
+    "student": "विद्यार्थी",
+    "students": "विद्यार्थीच्या",
+    "students_performance_statistics": "विद्यार्थ्यांच्या कामगिरीची आकडेवारी",
+    "toppers": "टॉपर्स",
+    "game": "खेळ",
+    "games": "खेळ",
+    "slide": "स्लाइड",
+    "slides": "स्लाइड",
+    "topic_name": "विषय नाव"
+  },
+  "ClassificationOptions": {
+    "coming_soon": "लवकरच येत आहे"
+  },
+  "Configs": {
+    "got_it": "समजले",
+    "new_update_available": "नवीन अद्यतन उपलब्ध",
+    "please_update_your_mobile_app_otherwise_you_might_miss_new_features": "कृपया आपला मोबाइल अॅप अद्यतनित करा अन्यथा कदाचित आपणास नवीन वैशिष्ट्ये गमावतील.",
+    "please_update_your_mobile_app_to_continue": "कृपया सुरू ठेवण्यासाठी आपला मोबाइल अॅप अद्यतनित करा."
+  },
+  "Dashboard": {
+    "new_update_is_available_please_update_app_to_continue": "नवीन अद्यतन उपलब्ध आहे. कृपया सुरू ठेवण्यासाठी अॅप अद्यतनित करा.",
+    "no_dont_update": "नाही, अद्यतनित नाही",
+    "presentations": "सादरीकरणे",
+    "reports": "अहवाल",
+    "students": "विद्यार्थीच्या",
+    "teaching_plans": "अध्यापनाच्या योजना",
+    "update": "अद्यतनित करा",
+    "update_available": "अद्यतन उपलब्ध"
+  },
+  "EditProfile": {
+    "click_to_add": "जोडण्यासाठी क्लिक करा",
+    "edit": "सुधारणे",
+    "profile_pic": "प्रोफाइल चित्र",
+    "save": "जतन करा"
+  },
+  "FibOptions": {
+    "coming_soon": "लवकरच येत आहे"
+  },
+  "Games": {
+    "games_were_not_in_the_presentation": "खेळ सादरीकरणात नव्हते",
+    "no_games_found": "खेळ सापडले नाहीत"
+  },
+  "Importer": {
+    "data_import_and_export_is_in_progress": "डेटा आयात आणि निर्यात प्रगतीपथावर आहे ...",
+    "data_is_imported_successfully": "डेटा यशस्वीरित्या आयात केला.",
+    "drop_the_downloaded_pack_from_cloud_teacher_app_in_the_below_dropzone": "खालील ड्रॉपझोनमध्ये क्लाउड टीचर अ‍ॅप वरून डाउनलोड केलेला पॅक ड्रॉप करा",
+    "import": "आयात करा",
+    "please_attach_pack_file": "कृपया पॅक फाइल संलग्न करा.",
+    "please_attach_valid_file": "कृपया वैध फाइल संलग्न करा.",
+    "skip_to_login": "लॉगिन वगळा",
+    "super_pack_cannot_be_imported_as_the_file_has_incorrect_format": "फाइलमध्ये चुकीचे स्वरूपन असल्यामुळे सुपर पॅक आयात केला जाऊ शकत नाही.",
+    "super_pack_cannot_be_imported_as_the_file_is_in_incorrect_format": "फाईल चुकीच्या स्वरूपात असल्यामुळे सुपर पॅक आयात केला जाऊ शकत नाही.",
+    "unable_to_connect_server": "सर्व्हरशी कनेक्ट करण्यात अक्षम",
+    "upload_pack_file": "पॅक फाइल अपलोड करा",
+    "welcome_to": "आपले स्वागत आहे",
+    "your_system_clock_is_incorrect_please_set_your_clock_to_the_current_date_and_time": "आपले सिस्टम घड्याळ चुकीचे आहे. कृपया आपल्या घड्याळाला वर्तमान तारीख आणि वेळ सेट करा."
+  },
+  "Language": {
+    "choose_any_language_below": "खाली कोणतीही भाषा निवडा",
+    "language": "Language / भाषा"
+  },
+  "LearnerListPage": {
+    "no_learners_found": "कोणताही शिकणारा सापडला नाही"
+  },
+  "Login": {
+    "supercampus": "लर्निंग बॉक्स",
+    "welcome_to": "आपले स्वागत आहे"
+  },
+  "MediaplayerPresentation": {
+    "video": "व्हिडिओ"
+  },
+  "OnlineLogin": {
+    "cancel": "रद्द करा",
+    "checkInternet": "काहीतरी चूक झाली. कृपया आपले इंटरनेट कनेक्शन तपासा आणि पुन्हा प्रयत्न करा.",
+    "hello": "नमस्कार,",
+    "instituteName": "संस्थेचे नाव",
+    "invalidInstitute": "कृपया वैध संस्था निवडा.",
+    "noMatchFound": "क्षमस्व, कोणतेही जुळणारे पर्याय आढळले नाहीत",
+    "no_internet": "इंटरनेट उपलब्ध नाही.",
+    "password": "संकेतशब्द",
+    "presentationSessionAlreadyExistHeader": "सादरीकरण सत्र आधीच चालू आहे",
+    "presentationSessionAlreadyExistMsg": "सादरीकरण सत्र आधीच चालू आहे. आपण सादरीकरण सत्र नष्ट करू इच्छिता?",
+    "proceed": "मारुन टाका",
+    "productName": "लर्निंग बॉक्स",
+    "runServer": "कृपया खात्री करा की सर्व्हर चालू आहे.",
+    "selectInstitute": "कृपया आपली संस्था निवडा",
+    "supportText": "कृपया आपल्या संस्थेचे नाव प्रविष्ट करा",
+    "username": "वापरकर्तानाव",
+    "welcomeMsg": "आपले स्वागत आहे"
+  },
+  "ParaSeqOptions": {
+    "coming_soon": "लवकरच येत आहे"
+  },
+  "PresentationSlide": {
+    "failed_to_download_to_presentation_templates_please_retry_once_again": "सादरीकरण टेम्पलेटवर डाउनलोड करण्यात अयशस्वी. कृपया पुन्हा एकदा प्रयत्न करा.",
+    "go_back": "परत जा",
+    "please_wait": "कृपया थांबा...",
+    "try_again": "पुन्हा प्रयत्न करा",
+    "unable_to_connect_server": "सर्व्हरशी कनेक्ट करण्यात अक्षम."
+  },
+  "Profile": {
+    "profile": "प्रोफाइल"
+  },
+  "QRScanner": {
+    "alpha_version_1": "अल्फा आवृत्ती {1}",
+    "already_logged_in": "आधीपासून लॉग इन केले",
+    "cancel": "रद्द करा",
+    "continue_as_0": "{0} म्हणून सुरू ठेवायचे?",
+    "error": "त्रुटी",
+    "invalid_qr_code_do_you_want_to_try_again": "अवैध क्यूआर कोड. आपण पुन्हा प्रयत्न करू इच्छिता?",
+    "logged_in_successfully": "यशस्वीरित्या लॉग इन केले",
+    "login_success": "लॉगिन यश",
+    "no": "नाही",
+    "no_second_device_is_allowed_to_login_from_mobile_app": "मोबाइल अॅपवरून दुसर्‍या डिव्हाइसला लॉग इन करण्याची परवानगी नाही.",
+    "okay": "ठीक आहे",
+    "please_enter_sessionid": "कृपया सत्रात प्रवेश करा",
+    "please_make_sure_that_server_is_running_and_you_have_connected_to_the_same_wifi": "कृपया खात्री करा की सर्व्हर चालू आहे आणि आपण त्याच WiFi शी कनेक्ट केले आहे.",
+    "please_make_sure_that_you_have_connected_to_the_internet": "कृपया आपण इंटरनेटशी कनेक्ट केलेले असल्याची खात्री करा.",
+    "please_make_sure_your_server_is_running_and_you_have_connected_to_same_wifi": "कृपया सुनिश्चित करा की आपला सर्व्हर चालू आहे आणि आपण त्याच WiFi शी कनेक्ट केले आहे.",
+    "proceed": "पुढे जा",
+    "proceed_to_login": "लॉगिन करण्यासाठी पुढे जा",
+    "retry": "पुन्हा प्रयत्न करा",
+    "scanning_qr": "स्कॅन क्यूआर",
+    "server_not_responding": "सर्व्हर प्रतिसाद देत नाही",
+    "system_not_activated": "सिस्टम सक्रिय नाही",
+    "unable_to_connect_server": "सर्व्हरला कनेक्ट करण्यात अक्षम",
+    "unable_to_reach_server": "सर्व्हरपर्यंत पोहोचण्यात अक्षम",
+    "yes": "होय",
+    "you_are_currently_using_the_alpha_version_1_of_superschool": "आपण सध्या लर्निंग बॉक्सची अल्फा आवृत्ती {1} वापरत आहात",
+    "your_system_is_not_activated_do_you_want_to_activate_this_system": "आपली प्रणाली सक्रिय केलेली नाही. आपण ही प्रणाली सक्रिय करू इच्छिता?"
+  },
+  "Questions": {
+    "no_questions_found": "कोणतेही प्रश्न सापडले नाहीत",
+    "no_responses_were_recorded": "कोणताही प्रतिसाद नोंदविला गेला नाही",
+    "presentation_had_no_questions": "सादरीकरणात कोणतेही प्रश्न नव्हते"
+  },
+  "Resource": {
+    "download_completed": "डाउनलोड पूर्ण झाले.",
+    "failed_to_open_file": "फाईल उघडण्यात अयशस्वी.",
+    "file_not_downloaded_to_open": "उघडण्यासाठी फाईल डाउनलोड केलेली नाही.",
+    "no_resources_attached": "कोणतीही स्रोत संलग्न नाहीत",
+    "resources": "संसाधने"
+  },
+  "ScanningIP": {
+    "alpha_version_version": "अल्फा आवृत्ती {1}",
+    "connect_to_server": "सर्व्हरशी कनेक्ट करा",
+    "enter_ip_address": "आयपी पत्ता प्रविष्ट करा",
+    "finding_servers": "सर्व्हर शोधत आहे",
+    "found_servers": "सर्व्हर आढळले",
+    "new_update_is_available_please_update_app_to_continue": "नवीन अद्यतन उपलब्ध आहे. कृपया सुरू ठेवण्यासाठी अॅप अद्यतनित करा.",
+    "no_dont_update": "नाही, अद्यतनित करू नका",
+    "no_servers_found": "कोणतेही सर्व्हर आढळले नाहीत",
+    "okay": "ठीक आहे",
+    "please_enter_valid_ip_address": "कृपया वैध आयपी पत्ता प्रविष्ट करा",
+    "unable_to_connect_server": "सर्व्हरशी कनेक्ट करण्यात अक्षम.",
+    "update": "अद्यतनित करा",
+    "update_available": "अद्यतन उपलब्ध",
+    "you_are_currently_using_the_alpha_version_1_of_superschool": "आपण सध्या लर्निंग बॉक्सची अल्फा आवृत्ती {1} वापरत आहात."
+  },
+  "SelectClass": {
+    "download_files": "फायली डाउनलोड करा",
+    "downloading_required_files": "आवश्यक फायली डाउनलोड करत आहे",
+    "failed_to_fetch_classrooms": "वर्ग मिळविण्यात अयशस्वी.",
+    "no_result_found_for_your_search": "आपल्या शोधासाठी कोणताही परिणाम आढळला नाही",
+    "okay": "ठीक आहे",
+    "permission_denied_by_you": "आपण परवानगी नाकारली.",
+    "please_give_permission_to_download_required_files": "कृपया आवश्यक फायली डाउनलोड करण्याची परवानगी द्या.",
+    "please_wait": "कृपया थांबा...",
+    "recently_used": "अलीकडे वापरलेले",
+    "search": "शोधा",
+    "select_class": "वर्ग निवडा",
+    "try_again": "पुन्हा प्रयत्न करा",
+    "unable_to_connect_server": "सर्व्हरशी कनेक्ट करण्यात अक्षम."
+  },
+  "SelectSubject": {
+    "no_result_found_for_your_search": "आपल्या शोधासाठी कोणताही परिणाम आढळला नाही",
+    "okay": "ठीक आहे",
+    "please_make_sure_that_server_is_running_and_you_have_connected_to_the_same_wifi": "कृपया खात्री करा की सर्व्हर चालू आहे आणि आपण त्याच WiFi शी कनेक्ट केले आहे.",
+    "please_wait": "कृपया थांबा...",
+    "recently_used": "अलीकडे वापरलेले",
+    "search": "शोधा",
+    "select_subject": "विषय निवडा",
+    "teaching_plan_not_found": "अध्यापनाची योजना आढळली नाही.",
+    "try_again": "पुन्हा प्रयत्न करा",
+    "unable_to_connect_server": "सर्व्हरशी कनेक्ट करण्यात अक्षम"
+  },
+  "Settings": {
+    "account": "खाते",
+    "classroom": "वर्ग",
+    "help": "मदत करा",
+    "language": "भाषा: मराठी",
+    "logout": "बाहेर पडणे",
+    "profile": "प्रोफाइल",
+    "restart_0": "{0} रीस्टार्ट करा",
+    "restart_superbox": "लर्निंग बॉक्स रीस्टार्ट करा",
+    "settings": "सेटिंग्ज",
+    "shutdown_superbox": "शटडाउन लर्निंग बॉक्स",
+    "version": "आवृत्ती",
+    "view_profile": "प्रोफाइल पहा"
+  },
+  "Slides": {
+    "no_slides_found": "कोणत्याही स्लाइड आढळल्या नाहीत",
+    "presentation_had_no_slides": "सादरीकरणाला स्लाइड नव्हती",
+    "total_time": "पूर्ण वेळ"
+  },
+  "StudentPendingResponses": {
+    "no_students_available": "विद्यार्थी उपलब्ध नाहीत",
+    "students_left_to_answer": "विद्यार्थ्यांनी उत्तर द्यायला सोडले"
+  },
+  "Students": {
+    "no_students_found": "कोणतेही विद्यार्थी आढळले नाहीत",
+    "presentation_had_no_students": "सादरीकरणात विद्यार्थी नव्हते",
+    "questions_answered": "प्रश्नांची उत्तरे दिली"
+  },
+  "SummaryList": {
+    "all_summaries": "सर्व सारांश",
+    "failed_to_fetch_summary": "सारांश आणण्यात अयशस्वी",
+    "no_summary_found": "कोणताही सारांश आढळला नाही"
+  },
+  "SystemDialog": {
+    "got_it": "समजले",
+    "no_wifi_detected": "कोणताही वायफाय आढळला नाही",
+    "you_have_not_connected_to_any_wifi_and_make_sure_that_you_have_signed_in_to_your_wifi_if_sign-in_required": "आपण कोणत्याही वायफायशी कनेक्ट केलेले नाही. आणि साइन-इन आवश्यक असल्यास आपण आपल्या WiFi वर साइन इन केले असल्याचे सुनिश्चित करा."
+  },
+  "SystemLogin": {
+    "can_not_calculate_hash_of_templates": "टेम्पलेटच्या हॅशची गणना करू शकत नाही",
+    "cancel": "रद्द करा",
+    "data_import_and_export_is_in_progress": "डेटा आयात आणि निर्यात प्रगतीपथावर आहे ...",
+    "hello": "नमस्कार,",
+    "import": "आयात करा",
+    "logging_in": "लॉग इन करीत आहे ...",
+    "login": "लॉगिन",
+    "password": "संकेतशब्द",
+    "please_enter_a_valid_username_and_password": "कृपया एक वैध वापरकर्तानाव आणि संकेतशब्द प्रविष्ट करा.",
+    "please_enter_password": "कृपया संकेतशब्द प्रविष्ट करा.",
+    "please_enter_username": "कृपया वापरकर्तानाव प्रविष्ट करा.",
+    "presentationSessionAlreadyExistHeader": "सादरीकरण सत्र आधीच चालू आहे",
+    "presentationSessionAlreadyExistMsg": "सादरीकरण सत्र आधीच चालू आहे. आपण सादरीकरण सत्र नष्ट करू इच्छिता?",
+    "proceed": "पुढे जा",
+    "system_not_activated": "सिस्टम सक्रिय नाही",
+    "unable_to_connect_server": "सर्व्हरशी कनेक्ट करण्यात अक्षम",
+    "unable_to_login": "लॉगिन करण्यात अक्षम.",
+    "username": "वापरकर्तानाव",
+    "welcome_to": "आपले स्वागत आहे",
+    "your_system_clock_is_incorrect_please_set_your_clock_to_the_current_date_and_time": "आपले सिस्टम घड्याळ चुकीचे आहे. कृपया आपल्या घड्याळाला वर्तमान तारीख आणि वेळ सेट करा.",
+    "your_system_is_not_activated_do_you_want_to_activate_this_system": "आपली प्रणाली सक्रिय केलेली नाही. आपण ही प्रणाली सक्रिय करू इच्छिता?"
+  },
+  "TeacherPresentationMode": {
+    "active_learners": "सक्रिय शिकणारे",
+    "are_you_sure_you_want_to_close_the_presentation": "आपली खात्री आहे की आपण सादरीकरण बंद करू इच्छिता?",
+    "cancel": "रद्द करा",
+    "classroom_pin": "क्लासरूम पिन",
+    "close_presentation": "सादरीकरण बंद करा",
+    "correctly": "बरोबर उत्तरे",
+    "displayText1": "",
+    "displayText2": "ज्या विद्यार्थ्यांनी हा पर्याय चिन्हांकित केला आहे",
+    "displayText3": "प्रतिसाद नाही",
+    "dontKnow": "उत्तर माहित नाही",
+    "end": "समाप्त",
+    "in_active_learners": "सक्रिय विद्यार्थ्यांमध्ये",
+    "incorrectly": "चुकीची उत्तरे",
+    "like": "आवडलेल्या विद्यार्थ्यांना",
+    "next": "पुढे",
+    "next_slide": "पुढील स्लाइड",
+    "no": "नाही",
+    "notes": "नोट्स",
+    "please_make_sure_you_are_connected_to_the_same_wifi": "कृपया आपण त्याच वायफायशी कनेक्ट असल्याचे सुनिश्चित करा.",
+    "previous": "मागील",
+    "question": "ज्या विद्यार्थ्यांनी प्रश्न उपस्थित केला",
+    "slide": "स्लाइड",
+    "stats": "आकडेवारी",
+    "student_details": "विद्यार्थ्यांचा तपशील",
+    "student_left_to_answer": "उत्तर देण्यासाठी विद्यार्थी सोडले",
+    "students_left_to_answer": "विद्यार्थ्यांनी उत्तर द्यायला सोडले",
+    "try_again": "पुन्हा प्रयत्न करा",
+    "unable_to_reach_server": "सर्व्हरपर्यंत पोहोचण्यात अक्षम",
+    "yes": "होय"
+  },
+  "TeacherPresentationModeAnswerView": {
+    "correct_answer": "बरोबर उत्तर"
+  },
+  "TeacherPresentationModeMCQ": {
+    "correct": "योग्य",
+    "dont_know": "माहित नाही",
+    "incorrect": "चुकीचे",
+    "show_answer": "उत्तर दाखवा",
+    "show_options": "पर्याय दर्शवा"
+  },
+  "TeachingPlanDashboard": {
+    "absent": "डिस्कनेक्ट केलेले",
+    "completed_on": "पूर्ण केले",
+    "no_presentations": "सादरीकरण नाही",
+    "no_result_found_for_your_search": "आपल्या शोधासाठी कोणताही परिणाम आढळला नाही",
+    "no_summaries": "सारांश नाहीत",
+    "no_teaching_plan_available": "कोणतीही अध्यापनाची योजना उपलब्ध नाही",
+    "planned_on": "वर नियोजित",
+    "please_wait": "कृपया थांबा...",
+    "present": "जोडलेले",
+    "presentation": "सादरीकरण",
+    "presentations": "सादरीकरणे",
+    "search": "शोधा",
+    "student_details": "विद्यार्थ्यांचा तपशील",
+    "students_connected": "विद्यार्थी कनेक्ट",
+    "summaries": "सारांश",
+    "try_again": "पुन्हा प्रयत्न करा",
+    "unable_to_connect_server": "सर्व्हरशी कनेक्ट करण्यात अक्षम.",
+    "unit": "युनिट",
+    "upload_teaching_plan_from_your_teacher_cloud_app": "आपल्या शिक्षक मेघ अॅप वरून अध्यापन योजना अपलोड करा"
+  },
+  "TilesStats": {
+    "view_all": "सर्व पहा"
+  },
+  "TopMenu": {
+    "close_session": "सत्र बंद करा",
+    "data_up_to_date": "डेटा अद्ययावत आहे",
+    "logout": "बाहेर पडणे",
+    "settings": "सेटिंग्ज",
+    "syncing_data": "डेटा समक्रमित करीत आहे"
+  },
+  "TopicDetails": {
+    "data_sync_is_in_progress_please_start_presentation_after_some_time": "डेटा समक्रमण प्रगतीपथावर आहे, कृपया काही काळानंतर सादरीकरण प्रारंभ करा",
+    "failed": "अयशस्वी",
+    "logout": "बाहेर पडणे",
+    "no_presentations_available": "कोणतीही सादरीकरणे उपलब्ध नाहीत",
+    "okay": "ठीक आहे",
+    "please_make_sure_that_server_is_running_and_you_have_connected_to_the_same_wifi": "कृपया खात्री करा की सर्व्हर चालू आहे आणि आपण त्याच WiFi शी कनेक्ट केले आहे.",
+    "please_provide_valid_presentationid": "कृपया वैध सादरीकरण प्रदान करा",
+    "please_wait": "कृपया थांबा...",
+    "presentation": "सादरीकरण",
+    "presentation_does_not_contain_any_slide": "सादरीकरणात कोणतीही स्लाइड नसते.",
+    "try_again": "पुन्हा प्रयत्न करा",
+    "unable_to_connect_server": "सर्व्हरशी कनेक्ट करण्यात अक्षम."
+  },
+  "Welcome": {
+    "already_logged_in": "आधीपासून लॉग इन केले",
+    "cancel": "रद्द करा",
+    "connecting_this_device_to_classroom": "हे डिव्हाइस वर्गात जोडत आहे",
+    "continue_as_0": "{0} म्हणून सुरू ठेवायचे?",
+    "data_import_and_export_is_in_progress": "डेटा आयात आणि निर्यात प्रगतीपथावर आहे ...",
+    "log_in": "लॉग इन करा",
+    "mkcl": "एमकेसीएल",
+    "nav_onlinelogin": "ऑनलाईन",
+    "no": "नाही",
+    "no_internet": "इंटरनेट उपलब्ध नाही.",
+    "no_second_device_is_allowed_to_login_from_mobile_app": "मोबाइल अॅपवरून दुसर्‍या डिव्हाइसला लॉग इन करण्याची परवानगी नाही.",
+    "okay": "ठीक आहे",
+    "please_make_sure_your_server_is_running_and_you_have_connected_to_same_wifi": "कृपया सुनिश्चित करा की आपला सर्व्हर चालू आहे आणि आपण त्याच WiFi शी कनेक्ट केले आहे.",
+    "proceed": "पुढे जा",
+    "proceed_to_login": "लॉगिन करण्यासाठी पुढे जा",
+    "start_session": "लर्निंग बॉक्स",
+    "superteacher": "सुपर शिक्षक",
+    "system_not_activated": "सिस्टम सक्रिय नाही",
+    "unable_to_connect_server": "सर्व्हरशी कनेक्ट करण्यात अक्षम.",
+    "unable_to_reach_server": "सर्व्हरपर्यंत पोहोचण्यात अक्षम",
+    "welcome_to": "आपले स्वागत आहे",
+    "yes": "होय",
+    "your_system_is_not_activated_do_you_want_to_activate_this_system": "आपली प्रणाली सक्रिय केलेली नाही. आपण ही प्रणाली सक्रिय करू इच्छिता?"
+  },
+  "button": {
+    "activate": "सक्रिय करा",
+    "cancel": "रद्द करा",
+    "close": "बंद",
+    "connect": "ऑनलाईन कनेक्ट करा",
+    "connectDevice": "लर्निंग बॉक्सशी कनेक्ट करा",
+    "edit": "सुधारणे",
+    "generate": "अहवाल व्युत्पन्न करा",
+    "import": "आयात करा",
+    "importPack": "आयात पॅक",
+    "login": "लॉगिन",
+    "next": "पुढे",
+    "nextQues": "पुढचा प्रश्न",
+    "okay": "ठीक आहे",
+    "prevQues": "मागील प्रश्न",
+    "preview": "पूर्वावलोकन",
+    "save": "जतन करा",
+    "start": "प्रारंभ करा",
+    "startPresentation": "सादरीकरण प्रारंभ करा",
+    "submit": "प्रस्तुत करणे",
+    "viewMore": "अधिक पहा"
+  },
+  "login": {
+    "are_you_sure_you_want_to_close_session": "आपली खात्री आहे की आपण सत्र बंद करू इच्छिता?",
+    "are_you_sure_you_want_to_logout": "आपली खात्री आहे की आपण लॉगआउट करू इच्छिता?",
+    "are_you_sure_you_want_to_restart_0": "आपली खात्री आहे की आपण {0} रीस्टार्ट करू इच्छिता?",
+    "are_you_sure_you_want_to_restart_superbox": "आपल्याला खात्री आहे की आपण लर्निंग बॉक्स पुन्हा सुरू करू इच्छिता?",
+    "are_you_sure_you_want_to_shutdown_superbox_note_it_will_take_2030_seconds_to_take_effect": "आपली खात्री आहे की आपण लर्निंग बॉक्स बंद करू इच्छिता? टीपः ते प्रभावी होण्यासाठी 20-30 सेकंदांचा काळ घेतील.",
+    "close_session": "सत्र बंद करा",
+    "logout": "बाहेर पडणे?",
+    "no": "नाही",
+    "restart_0": "{0} रीस्टार्ट करा",
+    "restart_superbox": "लर्निंग बॉक्स रीस्टार्ट करा",
+    "shutdown_superbox": "शटडाउन लर्निंग बॉक्स",
+    "yes": "होय"
+  }
+}

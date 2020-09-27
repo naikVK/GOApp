@@ -1,0 +1,423 @@
+{
+  "ScanningIP": {
+    "connect_to_server": "Connect to server",
+    "finding_servers": "Finding servers",
+    "found_servers": "Found servers",
+    "no_servers_found": "No servers found",
+    "please_enter_valid_ip_address": "Please enter valid IP address",
+    "new_update_is_available_please_update_app_to_continue": "New update is available. Please update app to continue.",
+    "update_available": "Update available",
+    "no_dont_update": "No, don't update",
+    "update": "Update",
+    "enter_ip_address": "Enter IP address",
+    "unable_to_connect_server": "Unable to connect server.",
+    "alpha_version_version": "Alpha version {1}",
+    "you_are_currently_using_the_alpha_version_1_of_superschool": "You are currently using the alpha version {1} of Learning Box.",
+    "okay": "Okay"
+  },
+  "Dashboard": {
+    "presentations": "Presentations",
+    "teaching_plans": "Teaching plans",
+    "students": "Students",
+    "reports": "Reports",
+    "new_update_is_available_please_update_app_to_continue": "New update is available. Please update app to continue.",
+    "update_available": "Update Available",
+    "no_dont_update": "No, Don't Update",
+    "update": "Update"
+  },
+  "TopMenu": {
+    "settings": "Settings",
+    "logout": "Logout",
+    "close_session": "Close Session",
+    "syncing_data": "Syncing data",
+    "data_up_to_date": "Data is up-to-date"
+  },
+  "SelectClass": {
+    "search": "Search",
+    "please_wait": "Please wait...",
+    "failed_to_fetch_classrooms": "Failed to fetch classrooms.",
+    "unable_to_connect_server": "Unable to connect server.",
+    "no_result_found_for_your_search": "No result found for your search",
+    "try_again": "Try Again",
+    "select_class": "Select class",
+    "downloading_required_files": "Downloading required files",
+    "download_files": "Download files",
+    "please_give_permission_to_download_required_files": "Please give permission to download required files.",
+    "okay": "Okay",
+    "permission_denied_by_you": "Permission denied by you.",
+    "recently_used": "Recently used"
+  },
+  "SelectSubject": {
+    "search": "Search",
+    "please_wait": "Please wait...",
+    "unable_to_connect_server": "Unable to connect server",
+    "teaching_plan_not_found": "Teaching plan not found.",
+    "please_make_sure_that_server_is_running_and_you_have_connected_to_the_same_wifi": "Please make sure that server is running and you have connected to the same Wifi.",
+    "okay": "Okay",
+    "no_result_found_for_your_search": "No result found for your search",
+    "try_again": "Try Again",
+    "select_subject": "Select subject",
+    "recently_used": "Recently Used"
+  },
+  "Settings": {
+    "version": "Version",
+    "settings": "Settings",
+    "classroom": "Classroom",
+    "restart_0": "Restart {0}",
+    "restart_superbox": "Restart Learning Box",
+    "shutdown_superbox": "Shutdown Learning Box",
+    "help": "Help",
+    "language": "Language",
+    "account": "Account",
+    "profile": "Profile",
+    "logout": "Logout",
+    "view_profile": "View Profile"
+  },
+  "TeachingPlanDashboard": {
+    "search": "Search",
+    "student_details": "Student details",
+    "present": "Connected",
+    "absent": "Disconnected",
+    "please_wait": "Please wait...",
+    "unit": "Unit",
+    "completed_on": "Completed on",
+    "planned_on": "Planned on",
+    "presentations": "presentations",
+    "presentation": "presentation",
+    "no_presentations": "No presentation",
+    "unable_to_connect_server": "Unable to connect server.",
+    "no_result_found_for_your_search": "No result found for your search",
+    "try_again": "Try Again",
+    "no_teaching_plan_available": "No teaching plan available",
+    "upload_teaching_plan_from_your_teacher_cloud_app": "Upload teaching plan from your teacher cloud app",
+    "summaries": "summaries",
+    "no_summaries": "No summaries",
+    "students_connected": "Students connected"
+  },
+  "PresentationSlide": {
+    "please_wait": "Please wait...",
+    "try_again": "Try Again",
+    "go_back": "Go Back",
+    "unable_to_connect_server": "Unable to connect server.",
+    "failed_to_download_to_presentation_templates_please_retry_once_again": "Failed to download to presentation templates. Please retry once again."
+  },
+  "login": {
+    "are_you_sure_you_want_to_logout": "Are you sure you want to logout?",
+    "logout": "Logout?",
+    "no": "No",
+    "yes": "Yes",
+    "close_session": "Close Session",
+    "are_you_sure_you_want_to_close_session": "Are you sure you want to close session?",
+    "restart_0": "Restart {0}",
+    "are_you_sure_you_want_to_restart_0": "Are you sure you want to restart {0}?",
+    "restart_superbox": "Restart Learning Box",
+    "are_you_sure_you_want_to_restart_superbox": "Are you sure you want to restart Learning Box?",
+    "shutdown_superbox": "Shutdown Learning Box",
+    "are_you_sure_you_want_to_shutdown_superbox_note_it_will_take_2030_seconds_to_take_effect": "Are you sure you want to shutdown Learning Box?\n\nNOTE: It will take 20-30 seconds to take effect."
+  },
+  "QRScanner": {
+    "scanning_qr": "Scanning QR",
+    "please_enter_sessionid": "Please enter sessionId",
+    "login_success": "Login Success",
+    "error": "Error",
+    "invalid_qr_code_do_you_want_to_try_again": "Invalid QR Code. Do you want to try again?",
+    "retry": "Retry",
+    "cancel": "Cancel",
+    "logged_in_successfully": "Logged in successfully",
+    "unable_to_connect_server": "Unable to Connect Server",
+    "please_make_sure_that_you_have_connected_to_the_internet": "Please make sure that you have connected to the internet.",
+    "okay": "Okay",
+    "server_not_responding": "Server Not Responding",
+    "please_make_sure_that_server_is_running_and_you_have_connected_to_the_same_wifi": "Please make sure that server is running and you have connected to the same Wifi.",
+    "alpha_version_1": "Alpha version {1}",
+    "you_are_currently_using_the_alpha_version_1_of_superschool": "You are currently using the alpha version {1} of Learning Box",
+    "already_logged_in": "Already logged in",
+    "no_second_device_is_allowed_to_login_from_mobile_app": "No second device is allowed to login from the mobile app.",
+    "unable_to_reach_server": "Unable to reach server",
+    "please_make_sure_your_server_is_running_and_you_have_connected_to_same_wifi": "Please make sure your server is running and you have connected to same wifi.",
+    "system_not_activated": "System Not Activated",
+    "your_system_is_not_activated_do_you_want_to_activate_this_system": "Your system is not activated. Do you want to activate this system?",
+    "proceed": "Proceed",
+    "proceed_to_login": "Proceed to login",
+    "no": "No",
+    "continue_as_0": "Continue as {0}?",
+    "yes": "Yes"
+  },
+  "TopicDetails": {
+    "presentation_does_not_contain_any_slide": "Presentation does not contain any slide.",
+    "please_wait": "Please wait...",
+    "no_presentations_available": "No presentations available",
+    "unable_to_connect_server": "Unable to connect server.",
+    "please_make_sure_that_server_is_running_and_you_have_connected_to_the_same_wifi": "Please make sure that server is running and you have connected to the same Wifi.",
+    "okay": "Okay",
+    "try_again": "Try Again",
+    "logout": "Logout",
+    "presentation": "Presentation",
+    "data_sync_is_in_progress_please_start_presentation_after_some_time": "Data sync is in progress, please start presentation after some time",
+    "please_provide_valid_presentationid": "Please provide valid presentationId",
+    "failed": "Failed"
+  },
+  "SystemDialog": {
+    "no_wifi_detected": "No Wifi Detected",
+    "you_have_not_connected_to_any_wifi_and_make_sure_that_you_have_signed_in_to_your_wifi_if_sign-in_required": "You have not connected to any wifi. And make sure that you have signed in to your wifi if sign-in required.",
+    "got_it": "Got it"
+  },
+  "TeacherPresentationMode": {
+    "unable_to_reach_server": "Unable to reach server",
+    "please_make_sure_you_are_connected_to_the_same_wifi": "Please make sure you are connected to the same wifi.",
+    "try_again": "Try Again",
+    "cancel": "Cancel",
+    "close_presentation": "Close Presentation",
+    "are_you_sure_you_want_to_close_the_presentation": "Are you sure you want to close the presentation?",
+    "yes": "Yes",
+    "no": "No",
+    "displayText1": " ",
+    "correctly": " Correct reponses",
+    "incorrectly": "Incorrect reponses",
+    "dontKnow": "Don't know answer",
+    "displayText2": "Students who marked this option",
+    "like": "Students who liked",
+    "question": "Students who raised question",
+    "displayText3": "No responses",
+    "next": "Next",
+    "end": "End",
+    "slide": "Slide",
+    "classroom_pin": "Classroom pin",
+    "student_details": "Student details",
+    "students_left_to_answer": "Students left to answer",
+    "student_left_to_answer": "Student left to answer",
+    "notes": "Notes",
+    "next_slide": "Next slide",
+    "previous": "Previous",
+    "stats": "Stats",
+    "active_learners": "Active learners",
+    "in_active_learners": "In active learners"
+  },
+  "Language": {
+    "choose_any_language_below": "Choose any language below",
+    "language": "Language / भाषा"
+  },
+  "Welcome": {
+    "mkcl": "MKCL",
+    "welcome_to": "Welcome to",
+    "superteacher": "SuperTeacher",
+    "connecting_this_device_to_classroom": "Connecting this device to classroom",
+    "start_session": "Learning Box",
+    "nav_onlinelogin": "Online",
+    "unable_to_reach_server": "Unable to reach server",
+    "please_make_sure_your_server_is_running_and_you_have_connected_to_same_wifi": "Please make sure your server is running and you have connected to same wifi.",
+    "okay": "Okay",
+    "system_not_activated": "System Not Activated",
+    "your_system_is_not_activated_do_you_want_to_activate_this_system": "Your system is not activated. Do you want to activate this system?",
+    "proceed": "Proceed",
+    "cancel": "Cancel",
+    "unable_to_connect_server": "Unable to connect server.",
+    "proceed_to_login": "Proceed to login",
+    "continue_as_0": "Continue as {0}?",
+    "yes": "Yes",
+    "no": "No",
+    "already_logged_in": "Already logged in",
+    "no_second_device_is_allowed_to_login_from_mobile_app": "No second device is allowed to login from the mobile app.",
+    "data_import_and_export_is_in_progress": "Data import and export is in progress...",
+    "no_internet": "No internet available.",
+    "log_in": "Log in"
+  },
+  "OnlineLogin": {
+    "productName": "Learning Box",
+    "invalidInstitute": "Please select valid institute.",
+    "checkInternet": "Something went wrong. Please check you internet connection and try again.",
+    "runServer": "Please make sure that server is running.",
+    "selectInstitute": " Please select your institute",
+    "welcomeMsg": "Welcome To",
+    "supportText": "Please enter your institute name",
+    "noMatchFound": "Sorry no matching options found",
+    "no_internet": "No internet available.",
+    "instituteName": "Institute Name",
+    "username": "Username",
+    "password": "Password",
+    "presentationSessionAlreadyExistHeader": "Presentation session already running",
+    "presentationSessionAlreadyExistMsg": "Presentation session already running. Do you want to kill the presentation session",
+    "proceed": "Kill",
+    "cancel": "Cancel",
+    "hello": "Hello,"
+  },
+  "Configs": {
+    "new_update_available": "New update available",
+    "please_update_your_mobile_app_otherwise_you_might_miss_new_features": "Please update your mobile app otherwise you might miss new features.",
+    "got_it": "Got it",
+    "please_update_your_mobile_app_to_continue": "Please update your mobile app to continue."
+  },
+  "Importer": {
+    "skip_to_login": "Skip to login",
+    "welcome_to": "Welcome to",
+    "drop_the_downloaded_pack_from_cloud_teacher_app_in_the_below_dropzone": "Drop the downloaded pack from cloud teacher app in the below dropzone",
+    "import": "Import",
+    "your_system_clock_is_incorrect_please_set_your_clock_to_the_current_date_and_time": "Your system clock is incorrect. Please set your clock to the current date and time.",
+    "super_pack_cannot_be_imported_as_the_file_is_in_incorrect_format": "Super pack cannot be imported as the file is in incorrect format.",
+    "please_attach_valid_file": "Please attach valid file.",
+    "please_attach_pack_file": "Please attach pack file.",
+    "data_import_and_export_is_in_progress": "Data import and export is in progress...",
+    "unable_to_connect_server": "Unable to connect server",
+    "data_is_imported_successfully": "Data is imported successfully.",
+    "super_pack_cannot_be_imported_as_the_file_has_incorrect_format": "Super pack cannot be imported as the file has incorrect format.",
+    "upload_pack_file": "Upload Pack file"
+  },
+  "SystemLogin": {
+    "welcome_to": "Welcome to",
+    "username": "Username",
+    "password": "Password",
+    "import": "Import",
+    "login": "Login",
+    "logging_in": "Logging in...",
+    "unable_to_connect_server": "Unable to connect server",
+    "your_system_clock_is_incorrect_please_set_your_clock_to_the_current_date_and_time": "Your system clock is incorrect. Please set your clock to the current date and time.",
+    "system_not_activated": "System Not Activated",
+    "your_system_is_not_activated_do_you_want_to_activate_this_system": "Your system is not activated. Do you want to activate this system?",
+    "proceed": "Proceed",
+    "cancel": "Cancel",
+    "please_enter_username": "Please enter username.",
+    "please_enter_password": "Please enter password.",
+    "data_import_and_export_is_in_progress": "Data import and export is in progress...",
+    "please_enter_a_valid_username_and_password": "Please enter a valid username and password.",
+    "unable_to_login": "Unable to login.",
+    "presentationSessionAlreadyExistHeader": "Presentation session already running",
+    "presentationSessionAlreadyExistMsg": "Presentation session already running. Do you want to kill the presentation session",
+    "hello": "Hello,",
+    "can_not_calculate_hash_of_templates": "Can not calculate hash of templates"
+  },
+  "Resource": {
+    "resources": "Resources",
+    "no_resources_attached": "No resources attached",
+    "failed_to_open_file": "Failed to open file.",
+    "file_not_downloaded_to_open": "File not downloaded to open.",
+    "download_completed": "Download completed."
+  },
+  "SummaryList": {
+    "all_summaries": "All Summaries",
+    "no_summary_found": "No summary found",
+    "failed_to_fetch_summary": "Failed to fetch summary"
+  },
+  "ClassSummary": {
+    "class_summary": "Class Summary",
+    "class_performance_is_0": "Class performance is {0}",
+    "0_questions": "{0} Question",
+    "0_total_students": "{0} Total student",
+    "toppers": "Toppers",
+    "0_correct_answers": "{0} correct answer",
+    "conducted_by": "Conducted by",
+    "on_0_in_1_for_2_mins": "on {0} in {1} for {2} ",
+    "questions": "Questions",
+    "question": "Question",
+    "students": "Students",
+    "student": "Student",
+    "correct_answers": "correct answers",
+    "correct_answer": "correct answer",
+    "students_performance_statistics": "Students performance statistics",
+    "started_at": "Started at",
+    "topic_name": "Topic Name",
+    "games": "Games",
+    "game": "Game",
+    "slides": "Slides",
+    "slide": "Slide"
+  },
+  "button": {
+    "import": "Import",
+    "next": "Next",
+    "login": "Login",
+    "okay": "Okay",
+    "startPresentation": "Start Presentation",
+    "cancel": "Cancel",
+    "close": "Close",
+    "viewMore": "View More",
+    "generate": "Generate Reports",
+    "nextQues": "Next question",
+    "prevQues": "Previous question",
+    "submit": "Submit",
+    "save": "Save",
+    "edit": "Edit",
+    "start": "Start",
+    "preview": "Preview",
+    "importPack": "Import Pack",
+    "activate": "Activate",
+    "connect": "Connect Online",
+    "connectDevice": "Connect To Learning Box"
+  },
+  "BeginPresentation": {
+    "presentation_created_by": "Presentation created by",
+    "downloaded_by": "Downloaded by",
+    "start_presentation": "Start Presentation",
+    "classroom_pin": "Classroom pin",
+    "students_connected": "Students connected",
+    "failed": "Failed",
+    "download_failed": "Download Failed",
+    "downloaded": "Downloaded",
+    "out_of": "out of",
+    "slides": "slides",
+    "students": "students",
+    "description": "Description"
+  },
+  "TeacherPresentationModeMCQ": {
+    "correct": "Correct",
+    "incorrect": "Incorrect",
+    "dont_know": "Don't know",
+    "show_options": "Show options",
+    "show_answer": "Show answer"
+  },
+  "EditProfile": {
+    "edit": "Edit",
+    "click_to_add": "Click to add",
+    "profile_pic": "profile pic",
+    "save": "Save"
+  },
+  "Games": {
+    "no_games_found": "No Games Found",
+    "games_were_not_in_the_presentation": "Games were not in the Presentation"
+  },
+  "Login": {
+    "welcome_to": "Welcome to",
+    "supercampus": "Learning Box"
+  },
+  "Questions": {
+    "no_questions_found": "No questions Found",
+    "presentation_had_no_questions": "Presentation had no questions",
+    "no_responses_were_recorded": "No Responses were recorded"
+  },
+  "Students": {
+    "questions_answered": "questions answered",
+    "no_students_found": "No Students Found",
+    "presentation_had_no_students": "Presentation had no students"
+  },
+  "Slides": {
+    "no_slides_found": "No slides found",
+    "presentation_had_no_slides": "Presentation had no slides",
+    "total_time": "Total time"
+  },
+  "LearnerListPage": {
+    "no_learners_found": "No learners found"
+  },
+  "TilesStats": {
+    "view_all": "View All"
+  },
+  "StudentPendingResponses": {
+    "students_left_to_answer": "Students left to answer",
+    "no_students_available": "No students available"
+  },
+  "MediaplayerPresentation": {
+    "video": "Video"
+  },
+  "ClassificationOptions": {
+    "coming_soon": "Coming soon"
+  },
+  "FibOptions": {
+    "coming_soon": "Coming soon"
+  },
+  "ParaSeqOptions": {
+    "coming_soon": "Coming soon"
+  },
+  "TeacherPresentationModeAnswerView": {
+    "correct_answer": "Correct answer"
+  },
+  "Profile": {
+    "profile": "Profile"
+  }
+}

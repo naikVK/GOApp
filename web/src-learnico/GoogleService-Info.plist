@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>260201377334-2q0k3b626bp13rgjgaip7mcla7jj88rj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.260201377334-2q0k3b626bp13rgjgaip7mcla7jj88rj</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDBYG1IOl1USe6ONEsK19wa8rFbA_1mKsI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>260201377334</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.mkcl.learnico.teacher</string>
+	<key>PROJECT_ID</key>
+	<string>learnico-teacher</string>
+	<key>STORAGE_BUCKET</key>
+	<string>learnico-teacher.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:260201377334:ios:c116a4c08a90c44a20b297</string>
+	<key>DATABASE_URL</key>
+	<string>https://learnico-teacher.firebaseio.com</string>
+</dict>
+</plist>

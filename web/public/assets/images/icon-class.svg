@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="18px" viewBox="0 0 20 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>icon-class</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-class">
+            <path d="M8,2.66453526e-15 C9.37059085,2.66453526e-15 8.8954305,2.66453526e-15 10,2.66453526e-15 C11.1045695,2.66453526e-15 10.7534609,2.66453526e-15 12,2.66453526e-15 L20,2.66453526e-15 L20,2 L19,2 L19,13 L13.25,13 L12.7657099,13 L11.0365571,13 L11.0365571,16.9891541 C10.5897736,17.2547838 10.2442546,17.3875987 10,17.3875987 C9.75574541,17.3875987 9.42092564,17.2547838 8.99554067,16.9891541 L8.99554067,13 L7.22030228,13 L6.75,13 L1,13 L1,2 L0,2 L0,2.66453526e-15 L8,2.66453526e-15 Z M3,2 L3,11 L17,11 L17,2 L3,2 Z" id="Shape" fill="#F1866A" fill-rule="nonzero"></path>
+            <rect id="Rectangle" fill="#F1866A" fill-rule="nonzero" x="2" y="1" width="16" height="11"></rect>
+            <polygon id="Triangle" stroke="#FFFFFF" fill="#FFFFFF" stroke-linejoin="round" transform="translate(10.000000, 6.500000) rotate(90.000000) translate(-10.000000, -6.500000) " points="10 5 12 8 8 8"></polygon>
+        </g>
+    </g>
+</svg>

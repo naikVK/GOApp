@@ -1,0 +1,423 @@
+{
+  "ScanningIP": {
+    "connect_to_server": "connect_to_server",
+    "finding_servers": "finding_servers",
+    "found_servers": "found_servers",
+    "no_servers_found": "no_servers_found",
+    "please_enter_valid_ip_address": "please_enter_valid_ip_address",
+    "new_update_is_available_please_update_app_to_continue": "new_update_is_available_please_update_app_to_continue",
+    "update_available": "update_available",
+    "no_dont_update": "no_dont_update",
+    "update": "update",
+    "enter_ip_address": "enter_ip_address",
+    "unable_to_connect_server": "unable_to_connect_server",
+    "alpha_version_version": "alpha_version_version",
+    "you_are_currently_using_the_alpha_version_1_of_superschool": "you_are_currently_using_the_alpha_version_1_of_superschool",
+    "okay": "okay"
+  },
+  "Dashboard": {
+    "presentations": "presentations",
+    "teaching_plans": "teaching_plans",
+    "students": "students",
+    "reports": "reports",
+    "new_update_is_available_please_update_app_to_continue": "new_update_is_available_please_update_app_to_continue",
+    "update_available": "update_available",
+    "no_dont_update": "no_dont_update",
+    "update": "update"
+  },
+  "TopMenu": {
+    "settings": "settings",
+    "logout": "logout",
+    "close_session": "close_session",
+    "syncing_data": "syncing_data",
+    "data_up_to_date": "data_up_to_date"
+  },
+  "SelectClass": {
+    "search": "search",
+    "please_wait": "please_wait",
+    "failed_to_fetch_classrooms": "failed_to_fetch_classrooms",
+    "unable_to_connect_server": "unable_to_connect_server",
+    "no_result_found_for_your_search": "no_result_found_for_your_search",
+    "try_again": "try_again",
+    "select_class": "select_class",
+    "downloading_required_files": "downloading_required_files",
+    "download_files": "download_files",
+    "please_give_permission_to_download_required_files": "please_give_permission_to_download_required_files",
+    "okay": "okay",
+    "permission_denied_by_you": "permission_denied_by_you",
+    "recently_used": "recently_used"
+  },
+  "SelectSubject": {
+    "search": "search",
+    "please_wait": "please_wait",
+    "unable_to_connect_server": "unable_to_connect_server",
+    "teaching_plan_not_found": "teaching_plan_not_found",
+    "please_make_sure_that_server_is_running_and_you_have_connected_to_the_same_wifi": "please_make_sure_that_server_is_running_and_you_have_connected_to_the_same_wifi",
+    "okay": "okay",
+    "no_result_found_for_your_search": "no_result_found_for_your_search",
+    "try_again": "try_again",
+    "select_subject": "select_subject",
+    "recently_used": "recently_used"
+  },
+  "Settings": {
+    "version": "version",
+    "settings": "settings",
+    "classroom": "classroom",
+    "restart_0": "restart_0",
+    "restart_superbox": "restart_superbox",
+    "shutdown_superbox": "shutdown_superbox",
+    "help": "help",
+    "language": "language",
+    "account": "account",
+    "profile": "profile",
+    "logout": "logout",
+    "view_profile": "view_profile"
+  },
+  "TeachingPlanDashboard": {
+    "search": "search",
+    "student_details": "student_details",
+    "present": "present",
+    "absent": "absent",
+    "please_wait": "please_wait",
+    "unit": "unit",
+    "completed_on": "completed_on",
+    "planned_on": "planned_on",
+    "presentations": "presentations",
+    "presentation": "presentation",
+    "no_presentations": "no_presentations",
+    "unable_to_connect_server": "unable_to_connect_server",
+    "no_result_found_for_your_search": "no_result_found_for_your_search",
+    "try_again": "try_again",
+    "no_teaching_plan_available": "no_teaching_plan_available",
+    "upload_teaching_plan_from_your_teacher_cloud_app": "upload_teaching_plan_from_your_teacher_cloud_app",
+    "summaries": "summaries",
+    "no_summaries": "no_summaries",
+    "students_connected": "students_connected"
+  },
+  "PresentationSlide": {
+    "please_wait": "please_wait",
+    "try_again": "try_again",
+    "go_back": "go_back",
+    "unable_to_connect_server": "unable_to_connect_server",
+    "failed_to_download_to_presentation_templates_please_retry_once_again": "failed_to_download_to_presentation_templates_please_retry_once_again"
+  },
+  "login": {
+    "are_you_sure_you_want_to_logout": "are_you_sure_you_want_to_logout",
+    "logout": "logout",
+    "no": "no",
+    "yes": "yes",
+    "close_session": "close_session",
+    "are_you_sure_you_want_to_close_session": "are_you_sure_you_want_to_close_session",
+    "restart_0": "restart_0",
+    "are_you_sure_you_want_to_restart_0": "are_you_sure_you_want_to_restart_0",
+    "restart_superbox": "restart_superbox",
+    "are_you_sure_you_want_to_restart_superbox": "are_you_sure_you_want_to_restart_superbox",
+    "shutdown_superbox": "shutdown_superbox",
+    "are_you_sure_you_want_to_shutdown_superbox_note_it_will_take_2030_seconds_to_take_effect": "are_you_sure_you_want_to_shutdown_superbox_note_it_will_take_2030_seconds_to_take_effect"
+  },
+  "QRScanner": {
+    "scanning_qr": "scanning_qr",
+    "please_enter_sessionid": "please_enter_sessionid",
+    "login_success": "login_success",
+    "error": "error",
+    "invalid_qr_code_do_you_want_to_try_again": "invalid_qr_code_do_you_want_to_try_again",
+    "retry": "retry",
+    "cancel": "cancel",
+    "logged_in_successfully": "logged_in_successfully",
+    "unable_to_connect_server": "unable_to_connect_server",
+    "please_make_sure_that_you_have_connected_to_the_internet": "please_make_sure_that_you_have_connected_to_the_internet",
+    "okay": "okay",
+    "server_not_responding": "server_not_responding",
+    "please_make_sure_that_server_is_running_and_you_have_connected_to_the_same_wifi": "please_make_sure_that_server_is_running_and_you_have_connected_to_the_same_wifi",
+    "alpha_version_1": "alpha_version_1",
+    "you_are_currently_using_the_alpha_version_1_of_superschool": "you_are_currently_using_the_alpha_version_1_of_superschool",
+    "already_logged_in": "already_logged_in",
+    "no_second_device_is_allowed_to_login_from_mobile_app": "no_second_device_is_allowed_to_login_from_mobile_app",
+    "unable_to_reach_server": "unable_to_reach_server",
+    "please_make_sure_your_server_is_running_and_you_have_connected_to_same_wifi": "please_make_sure_your_server_is_running_and_you_have_connected_to_same_wifi",
+    "system_not_activated": "system_not_activated",
+    "your_system_is_not_activated_do_you_want_to_activate_this_system": "your_system_is_not_activated_do_you_want_to_activate_this_system",
+    "proceed": "proceed",
+    "proceed_to_login": "proceed_to_login",
+    "no": "no",
+    "continue_as_0": "continue_as_0",
+    "yes": "yes"
+  },
+  "TopicDetails": {
+    "presentation_does_not_contain_any_slide": "presentation_does_not_contain_any_slide",
+    "please_wait": "please_wait",
+    "no_presentations_available": "no_presentations_available",
+    "unable_to_connect_server": "unable_to_connect_server",
+    "please_make_sure_that_server_is_running_and_you_have_connected_to_the_same_wifi": "please_make_sure_that_server_is_running_and_you_have_connected_to_the_same_wifi",
+    "okay": "okay",
+    "try_again": "try_again",
+    "logout": "logout",
+    "presentation": "presentation",
+    "data_sync_is_in_progress_please_start_presentation_after_some_time": "data_sync_is_in_progress_please_start_presentation_after_some_time",
+    "please_provide_valid_presentationid": "please_provide_valid_presentationid",
+    "failed": "failed"
+  },
+  "SystemDialog": {
+    "no_wifi_detected": "no_wifi_detected",
+    "you_have_not_connected_to_any_wifi_and_make_sure_that_you_have_signed_in_to_your_wifi_if_sign-in_required": "you_have_not_connected_to_any_wifi_and_make_sure_that_you_have_signed_in_to_your_wifi_if_sign-in_required",
+    "got_it": "got_it"
+  },
+  "TeacherPresentationMode": {
+    "unable_to_reach_server": "unable_to_reach_server",
+    "please_make_sure_you_are_connected_to_the_same_wifi": "please_make_sure_you_are_connected_to_the_same_wifi",
+    "try_again": "try_again",
+    "cancel": "cancel",
+    "close_presentation": "close_presentation",
+    "are_you_sure_you_want_to_close_the_presentation": "are_you_sure_you_want_to_close_the_presentation",
+    "yes": "yes",
+    "no": "no",
+    "displayText1": "displayText1",
+    "correctly": "correctly",
+    "incorrectly": "incorrectly",
+    "dontKnow": "dontKnow",
+    "displayText2": "displayText2",
+    "like": "like",
+    "question": "question",
+    "displayText3": "displayText3",
+    "next": "next",
+    "end": "end",
+    "slide": "slide",
+    "classroom_pin": "classroom_pin",
+    "student_details": "student_details",
+    "students_left_to_answer": "students_left_to_answer",
+    "student_left_to_answer": "student_left_to_answer",
+    "notes": "notes",
+    "next_slide": "next_slide",
+    "previous": "previous",
+    "stats": "stats",
+    "active_learners": "active_learners",
+    "in_active_learners": "in_active_learners"
+  },
+  "Language": {
+    "choose_any_language_below": "choose_any_language_below",
+    "language": "language"
+  },
+  "Welcome": {
+    "mkcl": "mkcl",
+    "welcome_to": "welcome_to",
+    "superteacher": "superteacher",
+    "connecting_this_device_to_classroom": "connecting_this_device_to_classroom",
+    "start_session": "start_session",
+    "nav_onlinelogin": "nav_onlinelogin",
+    "unable_to_reach_server": "unable_to_reach_server",
+    "please_make_sure_your_server_is_running_and_you_have_connected_to_same_wifi": "please_make_sure_your_server_is_running_and_you_have_connected_to_same_wifi",
+    "okay": "okay",
+    "system_not_activated": "system_not_activated",
+    "your_system_is_not_activated_do_you_want_to_activate_this_system": "your_system_is_not_activated_do_you_want_to_activate_this_system",
+    "proceed": "proceed",
+    "cancel": "cancel",
+    "unable_to_connect_server": "unable_to_connect_server",
+    "proceed_to_login": "proceed_to_login",
+    "continue_as_0": "continue_as_0",
+    "yes": "yes",
+    "no": "no",
+    "already_logged_in": "already_logged_in",
+    "no_second_device_is_allowed_to_login_from_mobile_app": "no_second_device_is_allowed_to_login_from_mobile_app",
+    "data_import_and_export_is_in_progress": "data_import_and_export_is_in_progress",
+    "no_internet": "no_internet",
+    "log_in": "log_in"
+  },
+  "OnlineLogin": {
+    "productName": "productName",
+    "invalidInstitute": "invalidInstitute",
+    "checkInternet": "checkInternet",
+    "runServer": "runServer",
+    "selectInstitute": "selectInstitute",
+    "welcomeMsg": "welcomeMsg",
+    "supportText": "supportText",
+    "noMatchFound": "noMatchFound",
+    "no_internet": "no_internet",
+    "instituteName": "instituteName",
+    "username": "username",
+    "password": "password",
+    "presentationSessionAlreadyExistHeader": "presentationSessionAlreadyExistHeader",
+    "presentationSessionAlreadyExistMsg": "presentationSessionAlreadyExistMsg",
+    "proceed": "proceed",
+    "cancel": "cancel",
+    "hello": "hello"
+  },
+  "Configs": {
+    "new_update_available": "new_update_available",
+    "please_update_your_mobile_app_otherwise_you_might_miss_new_features": "please_update_your_mobile_app_otherwise_you_might_miss_new_features",
+    "got_it": "got_it",
+    "please_update_your_mobile_app_to_continue": "please_update_your_mobile_app_to_continue"
+  },
+  "Importer": {
+    "skip_to_login": "skip_to_login",
+    "welcome_to": "welcome_to",
+    "drop_the_downloaded_pack_from_cloud_teacher_app_in_the_below_dropzone": "drop_the_downloaded_pack_from_cloud_teacher_app_in_the_below_dropzone",
+    "import": "import",
+    "your_system_clock_is_incorrect_please_set_your_clock_to_the_current_date_and_time": "your_system_clock_is_incorrect_please_set_your_clock_to_the_current_date_and_time",
+    "super_pack_cannot_be_imported_as_the_file_is_in_incorrect_format": "super_pack_cannot_be_imported_as_the_file_is_in_incorrect_format",
+    "please_attach_valid_file": "please_attach_valid_file",
+    "please_attach_pack_file": "please_attach_pack_file",
+    "data_import_and_export_is_in_progress": "data_import_and_export_is_in_progress",
+    "unable_to_connect_server": "unable_to_connect_server",
+    "data_is_imported_successfully": "data_is_imported_successfully",
+    "super_pack_cannot_be_imported_as_the_file_has_incorrect_format": "super_pack_cannot_be_imported_as_the_file_has_incorrect_format",
+    "upload_pack_file": "upload_pack_file"
+  },
+  "SystemLogin": {
+    "welcome_to": "welcome_to",
+    "username": "username",
+    "password": "password",
+    "import": "import",
+    "login": "login",
+    "logging_in": "logging_in",
+    "unable_to_connect_server": "unable_to_connect_server",
+    "your_system_clock_is_incorrect_please_set_your_clock_to_the_current_date_and_time": "your_system_clock_is_incorrect_please_set_your_clock_to_the_current_date_and_time",
+    "system_not_activated": "system_not_activated",
+    "your_system_is_not_activated_do_you_want_to_activate_this_system": "your_system_is_not_activated_do_you_want_to_activate_this_system",
+    "proceed": "proceed",
+    "cancel": "cancel",
+    "please_enter_username": "please_enter_username",
+    "please_enter_password": "please_enter_password",
+    "data_import_and_export_is_in_progress": "data_import_and_export_is_in_progress",
+    "please_enter_a_valid_username_and_password": "please_enter_a_valid_username_and_password",
+    "unable_to_login": "unable_to_login",
+    "presentationSessionAlreadyExistHeader": "presentationSessionAlreadyExistHeader",
+    "presentationSessionAlreadyExistMsg": "presentationSessionAlreadyExistMsg",
+    "hello": "hello",
+    "can_not_calculate_hash_of_templates": "can_not_calculate_hash_of_templates"
+  },
+  "Resource": {
+    "resources": "resources",
+    "no_resources_attached": "no_resources_attached",
+    "failed_to_open_file": "failed_to_open_file",
+    "file_not_downloaded_to_open": "file_not_downloaded_to_open",
+    "download_completed": "download_completed"
+  },
+  "SummaryList": {
+    "all_summaries": "all_summaries",
+    "no_summary_found": "no_summary_found",
+    "failed_to_fetch_summary": "failed_to_fetch_summary"
+  },
+  "ClassSummary": {
+    "class_summary": "class_summary",
+    "class_performance_is_0": "class_performance_is_0",
+    "0_questions": "0_questions",
+    "0_total_students": "0_total_students",
+    "toppers": "toppers",
+    "0_correct_answers": "0_correct_answers",
+    "conducted_by": "conducted_by",
+    "on_0_in_1_for_2_mins": "on_0_in_1_for_2_mins",
+    "questions": "questions",
+    "question": "question",
+    "students": "students",
+    "student": "student",
+    "correct_answers": "correct_answers",
+    "correct_answer": "correct_answer",
+    "students_performance_statistics": "students_performance_statistics",
+    "started_at": "started_at",
+    "topic_name": "topic_name",
+    "games": "games",
+    "game": "game",
+    "slides": "slides",
+    "slide": "slide"
+  },
+  "button": {
+    "import": "import",
+    "next": "next",
+    "login": "login",
+    "okay": "okay",
+    "startPresentation": "startPresentation",
+    "cancel": "cancel",
+    "close": "close",
+    "viewMore": "viewMore",
+    "generate": "generate",
+    "nextQues": "nextQues",
+    "prevQues": "prevQues",
+    "submit": "submit",
+    "save": "save",
+    "edit": "edit",
+    "start": "start",
+    "preview": "preview",
+    "importPack": "importPack",
+    "activate": "activate",
+    "connect": "connect",
+    "connectDevice": "connectDevice"
+  },
+  "BeginPresentation": {
+    "presentation_created_by": "presentation_created_by",
+    "downloaded_by": "downloaded_by",
+    "start_presentation": "start_presentation",
+    "classroom_pin": "classroom_pin",
+    "students_connected": "students_connected",
+    "failed": "failed",
+    "download_failed": "download_failed",
+    "downloaded": "downloaded",
+    "out_of": "out_of",
+    "slides": "slides",
+    "students": "students",
+    "description": "description"
+  },
+  "TeacherPresentationModeMCQ": {
+    "correct": "correct",
+    "incorrect": "incorrect",
+    "dont_know": "dont_know",
+    "show_options": "show_options",
+    "show_answer": "show_answer"
+  },
+  "EditProfile": {
+    "edit": "edit",
+    "click_to_add": "click_to_add",
+    "profile_pic": "profile_pic",
+    "save": "save"
+  },
+  "Games": {
+    "no_games_found": "no_games_found",
+    "games_were_not_in_the_presentation": "games_were_not_in_the_presentation"
+  },
+  "Login": {
+    "welcome_to": "welcome_to",
+    "supercampus": "supercampus"
+  },
+  "Questions": {
+    "no_questions_found": "no_questions_found",
+    "presentation_had_no_questions": "presentation_had_no_questions",
+    "no_responses_were_recorded": "no_responses_were_recorded"
+  },
+  "Students": {
+    "questions_answered": "questions_answered",
+    "no_students_found": "no_students_found",
+    "presentation_had_no_students": "presentation_had_no_students"
+  },
+  "Slides": {
+    "no_slides_found": "no_slides_found",
+    "presentation_had_no_slides": "presentation_had_no_slides",
+    "total_time": "total_time"
+  },
+  "LearnerListPage": {
+    "no_learners_found": "no_learners_found"
+  },
+  "TilesStats": {
+    "view_all": "view_all"
+  },
+  "StudentPendingResponses": {
+    "students_left_to_answer": "students_left_to_answer",
+    "no_students_available": "no_students_available"
+  },
+  "MediaplayerPresentation": {
+    "video": "video"
+  },
+  "ClassificationOptions": {
+    "coming_soon": "coming_soon"
+  },
+  "FibOptions": {
+    "coming_soon": "coming_soon"
+  },
+  "ParaSeqOptions": {
+    "coming_soon": "coming_soon"
+  },
+  "TeacherPresentationModeAnswerView": {
+    "correct_answer": "correct_answer"
+  },
+  "Profile": {
+    "profile": "profile"
+  }
+}
