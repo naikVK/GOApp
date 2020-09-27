@@ -1,0 +1,149 @@
+{
+  "name": "app",
+  "version": "0.1.0",
+  "private": true,
+  "genI18nConfig": {
+    "companyId": "1LMDeXbcqwk8q7V5o97RpJMgyqy",
+    "url": "https://mepcs.mkcl.org/server",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJyb2hpdGJAbWtjbC5vcmciLCJncm91cHMiOltdLCJjbGllbnRJUCI6IjEyNy4wLjAuMSIsImhpdHNDb3VudCI6MCwidG9rZW4iOiIiLCJtZXRhZGF0YSI6IntcImNvbXBhbnlJZFwiOlwiMUxNRGVYYmNxd2s4cTdWNW85N1JwSk1neXF5XCJ9IiwiZXhwIjoxNTkyMTI4NDQzfQ.ZjKmv0eQdKOzSGx7iceR8bT5ORLXl1vp5Mev1N5JJD4",
+    "scanFiles": [
+      ".vue",
+      ".js"
+    ],
+    "langConfig": {
+      "defaultLang": "en",
+      "otherLangs": [
+        "hi",
+        "mr"
+      ]
+    }
+  },
+  "cloneCreatorConfig": [
+    {
+      "srcFilePath": "src-cordova/package.json",
+      "dstFilePath": "src-learnico/package.json",
+      "changes": {
+        "name": "org.mkcl.learnico.teacher",
+        "displayName": "LearniCo Teacher"
+      }
+    }
+  ],
+  "scripts": {
+    "linux-publish": "cp build//outputs//app-release-signed.apk /Users/pravinkumarputta/Desktop/Workspace/ngnix/files/SuperSchool/CollegeTeacherMobileApp.apk",
+    "win-publish": "copy /Y build\\outputs\\app-release-signed.apk F:\\SharedData\\Softwares\\nginx-1.8.0\\files\\SuperSchool\\CollegeTeacherMobileApp.apk",
+    "linux-clean-build": "rm -rf build/outputs/*",
+    "win-clean-build": "del /S /Q build\\outputs\\*",
+    "linux-android-release-cmd-1": "$ANDROID_HOME/build-tools/29.0.2/zipalign -v -p 4  src-cordova/platforms/android/app/build/outputs/apk/release/app-release-unsigned.apk build/outputs/app-release-unsigned-aligned.apk",
+    "linux-android-release-learnico-cmd-1": "$ANDROID_HOME/build-tools/29.0.2/zipalign -v -p 4  src-learnico/platforms/android/app/build/outputs/apk/release/app-release-unsigned.apk build/outputs/app-release-unsigned-aligned.apk",
+    "win-android-release-cmd-1": "%ANDROID_HOME%/build-tools/29.0.2/zipalign -v -p 4  src-cordova/platforms/android/app/build/outputs/apk/release/app-release-unsigned.apk build/outputs/app-release-unsigned-aligned.apk",
+    "linux-android-release-learnico-cmd-2": "$ANDROID_HOME/build-tools/29.0.2/apksigner sign --ks  build/MKCLAndroidApp.jks --ks-key-alias MKCLAndroidApp_alias --ks-pass pass:MKCLAndroidApp --out build/outputs/LearniCo\\ Teacher.apk build/outputs/app-release-unsigned-aligned.apk",
+    "linux-android-release-cmd-2": "$ANDROID_HOME/build-tools/29.0.2/apksigner sign --ks  build/MKCLAndroidApp.jks --ks-key-alias MKCLAndroidApp_alias --ks-pass pass:MKCLAndroidApp --out build/outputs/app-release-signed.apk build/outputs/app-release-unsigned-aligned.apk",
+    "win-android-release-cmd-2": "%ANDROID_HOME%/build-tools/29.0.2/apksigner sign --ks  build/MKCLAndroidApp.jks --ks-key-alias MKCLAndroidApp_alias --ks-pass pass:MKCLAndroidApp --out build/outputs/app-release-signed.apk build/outputs/app-release-unsigned-aligned.apk",
+    "linux-android-release": "npm run cordova-build-android && npm run linux-clean-build && npm run linux-android-release-cmd-1 && npm run linux-android-release-cmd-2 && npm run linux-publish",
+    "linux-android-learnico-release": "npm run cordova-build-android-learnico && npm run linux-clean-build && npm run linux-android-release-learnico-cmd-1 && npm run linux-android-release-learnico-cmd-2",
+    "win-android-release": "npm run cordova-build-android && npm run win-clean-build && npm run win-android-release-cmd-1 && npm run win-android-release-cmd-2 && npm run win-publish",
+    "android-main": "cd src-cordova && cordova run android",
+    "android-main-learnico": "cd src-learnico && cordova run android",
+    "ios-main": "cd src-cordova && cordova run ios",
+    "android": "npm run cordova-prepare && npm run android-main",
+    "android-ssstg": "vue-cli-service cordova-prepare --mode ssstg && npm run android-main",
+    "android-learningbox": "vue-cli-service cordova-prepare --mode learningbox && npm run android-main",
+    "android-superschoolstg": "vue-cli-service cordova-prepare --mode superschoolstg && npm run android-main",
+    "android-learnico": "npm run cordova-prepare-learnico && cd src-learnico && cordova run android",
+    "ios": "npm run cordova-prepare && npm run ios-main",
+    "ios-open": "npm run cordova-prepare && cd src-cordova && open ./platforms/ios/SuperTeacher.xcworkspace/",
+    "ios-open-ssstg": "vue-cli-service cordova-prepare --mode ssstg  && cd src-cordova && open ./platforms/ios/SuperTeacher.xcworkspace/",
+    "ios-open-learningbox": "vue-cli-service cordova-prepare --mode learningbox  && cd src-cordova && open ./platforms/ios/SuperTeacher.xcworkspace/",
+    "ios-open-superschoolstg": "vue-cli-service cordova-prepare --mode superschoolstg  && cd src-cordova && open ./platforms/ios/SuperTeacher.xcworkspace/",
+    "ios-open-learnico": "npm run cordova-prepare-learnico  && cd src-learnico && open ./platforms/ios/LearniCo\\ Teacher.xcworkspace/",
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "cordova-full-clean": "cd src-cordova && cordova platform remove android ios && rm -rf node_modules plugins package-lock.json && cordova platform add android ios",
+    "cordova-full-clean-learnico": "cd src-learnico && cordova platform remove android ios && rm -rf node_modules plugins package-lock.json && cordova platform add android ios",
+    "cordova-build-android-ssstg": "vue-cli-service cordova-build-android --mode ssstg",
+    "cordova-build-android-learningbox": "vue-cli-service cordova-build-android --mode learningbox",
+    "cordova-build-android-superschoolstg": "vue-cli-service cordova-build-android --mode superschoolstg",
+    "cordova-build-android-learnico": "npm run cordova-prepare-learnico && cd src-learnico && cordova build android --release",
+    "cordova-build-android": "vue-cli-service cordova-build-android",
+    "cordova-build-browser": "vue-cli-service cordova-build-browser",
+    "cordova-build-ios": "vue-cli-service cordova-build-ios",
+    "cordova-build-osx": "vue-cli-service cordova-build-osx",
+    "cordova-prepare-learnico": "vue-cli-service cordova-prepare --mode learningbox && npm run clone-creator && rm -rf src-learnico/www/* && cp -a src-cordova/www/. src-learnico/www/",
+    "cordova-prepare": "vue-cli-service cordova-prepare",
+    "cordova-serve-android": "vue-cli-service cordova-serve-android",
+    "cordova-serve-browser": "vue-cli-service cordova-serve-browser",
+    "cordova-serve-ios": "vue-cli-service cordova-serve-ios",
+    "cordova-serve-osx": "vue-cli-service cordova-serve-osx",
+    "test:e2e": "vue-cli-service test:e2e",
+    "test:unit": "vue-cli-service test:unit",
+    "geni18n": "gulp geni18n",
+    "geni18n-clean": "gulp geni18n-clean",
+    "clone-creator": "node clone-creator.js"
+  },
+  "dependencies": {
+    "apexcharts": "^3.16.1",
+    "axios": "^0.18.0",
+    "babel-loader": "^8.0.5",
+    "babel-minify-webpack-plugin": "^0.3.1",
+    "bootstrap-vue": "^2.0.0-rc.19",
+    "chart.js": "^2.9.3",
+    "chartjs-plugin-annotation": "^0.5.7",
+    "dayjs": "^1.8.22",
+    "fabric": "^3.6.3",
+    "pako": "^1.0.11",
+    "readline-sync": "^1.4.10",
+    "register-service-worker": "^1.0.0",
+    "v-localforage": "^2.0.1",
+    "v-viewer": "^1.4.1",
+    "vue": "^2.6.2",
+    "vue-analytics": "^5.22.1",
+    "vue-apexcharts": "^1.5.2",
+    "vue-chartjs": "^3.5.0",
+    "vue-i18n": "^8.8.0",
+    "vue-localstorage": "^0.6.2",
+    "vue-lottie": "^0.2.1",
+    "vue-router": "^3.0.1",
+    "vue-select": "^3.1.0",
+    "vue-toasted": "^1.1.26",
+    "vue-youtube": "^1.4.0",
+    "vue2-dropzone": "^3.5.9",
+    "vuejs-dialog": "^1.3.0",
+    "vuejs-logger": "1.5.3",
+    "vuewordcloud": "^18.7.11",
+    "vuex": "^3.0.1",
+    "vuex-persistedstate": "^2.5.4"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.4.0",
+    "@vue/cli-plugin-e2e-nightwatch": "^3.4.0",
+    "@vue/cli-plugin-eslint": "^3.4.0",
+    "@vue/cli-plugin-pwa": "^3.4.0",
+    "@vue/cli-plugin-unit-jest": "^3.4.0",
+    "@vue/cli-service": "^3.4.0",
+    "@vue/eslint-config-standard": "^4.0.0",
+    "@vue/test-utils": "^1.0.0-beta.29",
+    "babel-core": "7.0.0-bridge.0",
+    "babel-eslint": "^10.0.1",
+    "babel-jest": "^23.6.0",
+    "compression-webpack-plugin": "^2.0.0",
+    "eslint": "^5.13.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.2.0",
+    "node-sass": "^4.9.0",
+    "sass-loader": "^7.0.1",
+    "vue-cli-plugin-cordova": "^2.1.3",
+    "vue-template-compiler": "^2.6.2"
+  },
+  "postcss": {
+    "plugins": {
+      "autoprefixer": {}
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ]
+}

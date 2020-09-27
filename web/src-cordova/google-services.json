@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "561025849705",
+    "firebase_url": "https://mkcl-superteacher.firebaseio.com",
+    "project_id": "mkcl-superteacher",
+    "storage_bucket": "mkcl-superteacher.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561025849705:android:0f6969480734ea919a85f8",
+        "android_client_info": {
+          "package_name": "org.mkcl.os.ssteacher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561025849705-nnvaor7b4gjgr292qjto0no07tilur8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ8f6PdueJTKU2N5svWV6kMvn57QfG8aw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561025849705-nnvaor7b4gjgr292qjto0no07tilur8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "260201377334",
+    "firebase_url": "https://learnico-teacher.firebaseio.com",
+    "project_id": "learnico-teacher",
+    "storage_bucket": "learnico-teacher.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260201377334:android:09600001be8eaef320b297",
+        "android_client_info": {
+          "package_name": "org.mkcl.learnico.teacher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260201377334-tg9eafsr5vdo4bcfesa9emq1ldbl5v3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6Pt8xCKmVvS1Zhdo057hx5lu9DIOruKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260201377334-tg9eafsr5vdo4bcfesa9emq1ldbl5v3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
